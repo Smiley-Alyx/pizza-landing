@@ -5,4 +5,4 @@
 ### Запуск:
 *npm install*
 
-*DEBUG=pizza-landing:* npm start*
+DEBUG=pizza-landing:* npm start
